@@ -1,5 +1,7 @@
 #!/usr/bin/bash                                                                                      
-                                                                                                     
+
+#/usr/local/bin/genvimspectorconfig
+
 #touch .vimspector.json                                                                               
 cat << "EOF" > .vimspector.json                                                                        
 {                                                                                                    
